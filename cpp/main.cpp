@@ -24,4 +24,5 @@ int main(){
         printf("%d, %d, %d : ", i, j, k);
         printf("\n");
     }
+    return 0;
 }
